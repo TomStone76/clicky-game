@@ -1,3 +1,5 @@
+//game logic here
+
 import React from "react";
 
 const Click = () => (
