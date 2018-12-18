@@ -15,4 +15,17 @@ const Click = () => (
     </div>
 )
 
-//Determine if game logic and 
+// NOTES:
+//-shuffle array
+// -score function
+// -states (clicked components)
+
+// -build components:
+// 	-navbar.js
+// 	-card.js
+// 	-click.js
+
+// ref. friends activity: build object with images, set as state
+
+
+// class Game extends Component
